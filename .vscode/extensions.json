@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "ms-vscode.cpptools",
+    "webfreak.debug",
+    "rust-lang.rust",
+    "matklad.rust-analyzer"
+  ]
+}
